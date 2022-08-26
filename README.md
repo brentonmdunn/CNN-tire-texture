@@ -1,1 +1,1 @@
-# CNN-tire-texture
+# CNN Tire Texture
